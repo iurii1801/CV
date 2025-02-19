@@ -4,7 +4,7 @@
 
 ### Фотография / аватар
 
-![Мой аватар](images/avatar.jpg)  
+![Мой аватар](images   /avatar.jpg)  
 
 ### Краткое описание себя
 
@@ -40,3 +40,5 @@
 - **GitHub**: [iurii1801](https://github.com/iurii1801)
 - **Telegram**: [ТГ](https://t.me/bogdanov_18i)
 - **Instagram**:[instagram](https://www.instagram.com/bogdanov_18_/) 
+
+[gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
